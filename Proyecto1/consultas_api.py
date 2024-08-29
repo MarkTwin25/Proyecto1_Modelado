@@ -9,7 +9,7 @@ Endpoint = 'https://api.openweathermap.org/data/2.5/weather'
 KEY_OPENWEATHER = 'cbf49df61a4df6c077edcf1844d67f5f'
 
 # Leer el dataset limpio
-df = pd.read_csv('dataset1_clean.csv')
+df = pd.read_csv('datasets\dataset1_clean.csv')
 
 cache = {} # "ciudad": "clima"
 
