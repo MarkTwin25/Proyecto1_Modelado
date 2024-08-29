@@ -85,7 +85,7 @@ Le damos al boton de Obtener clima:
 
 Notemos que nos da el clima en el mismo entry donde escribimos la ciudad, ahora veamos el cache dando click al boton de consultar cache:
 
-![alt text]ImagenesReadme/(image-3.png)
+![alt text]ImagenesReadme/(ImagenesReadme/image-3.png)
 
 Veamos que, en efecto guardo las dos ciudades correctamente y su respectivo clima.
 
