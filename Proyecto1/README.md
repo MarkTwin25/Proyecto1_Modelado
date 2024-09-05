@@ -5,6 +5,8 @@
 ![imagen promocional](ImagenesReadme/image.png)
 
 ---
+# Integrantes
+
 - Rosas Marín Jesús Martín
 - Urzúa Contreras Cristian Josué
 - Reyes Arteaga Angel David
